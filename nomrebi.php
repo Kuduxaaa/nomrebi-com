@@ -108,7 +108,8 @@ class NomrebiCom
 			{
 				return [
 					'number' => $data['valid_number'],
-					'name' => $data['info']['name']];
+					'name' => $data['info']['name']
+				];
 			}
 			else
 			{
