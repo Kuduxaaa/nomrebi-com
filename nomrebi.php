@@ -125,5 +125,5 @@ class NomrebiCom
 // For Example
 
 $nomrebi = new NomrebiCom();
-$data = $nomrebi->get_info('555555555')
-print_r($data)
+$data = $nomrebi->get_info('555555555');
+print_r($data);
