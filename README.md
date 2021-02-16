@@ -1,2 +1,4 @@
 # NomrebiCom - API
-(SimpleAPI) Nomrebi.com - API writed in php and python 
+[Nomrebi.com](https://nomrebi.com/) - Georgian phone number database. (simpleapi) Both versions of the API are written in PHP and Python
+
+- Bypassed tokens 😉😎😈
